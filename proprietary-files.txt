@@ -110,7 +110,6 @@ vendor/lib/rfsa/adsp/libfastcvadsp.so
 etc/agps_rm
 lib/hw/gps.default.so
 vendor/lib/libgeofence.so
-vendor/lib/libgps.utils.so
 vendor/lib/libizat_core.so
 vendor/lib/liblbs_core.so
 vendor/lib/libloc_api_v02.so
