@@ -81,7 +81,6 @@ USE_OPENGL_RENDERER := true
 TARGET_SPECIFIC_HEADER_PATH := device/htc/memul/include
 
 # Kernel
-BOARD_CUSTOM_BOOTIMG_MK := device/htc/memul/mkbootimg.mk
 BOARD_KERNEL_BASE := 0x00000000
 BOARD_KERNEL_CMDLINE := console=ttyHSL0,115200,n8 androidboot.hardware=qcom user_debug=31 ehci-hcd.park=3
 BOARD_KERNEL_PAGESIZE := 2048
